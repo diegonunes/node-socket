@@ -1,0 +1,26 @@
+{
+  "name": "node-socket",
+  "version": "1.0.0",
+  "description": "Projeto para atividade prática sobre Sockets do módulo 2 da disciplina de Redes de Computadores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegonunes/node-socket.git"
+  },
+  "keywords": [
+    "node",
+    "socket"
+  ],
+  "author": "Diego Nunes <diegonunesdev@gmail.com> (https://diegonunes.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegonunes/node-socket/issues"
+  },
+  "homepage": "https://github.com/diegonunes/node-socket#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
